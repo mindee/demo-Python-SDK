@@ -2,6 +2,23 @@
 
 These samples all use Juypter Notebooks.
 
+Python requirements:
+```
+from mindee import Client
+import json
+import cv2
+from matplotlib import pyplot as plt
+import numpy as np
+import math
+from IPython.lib.pretty import pretty
+```
+
+* Mindee is used for the OCR data extraction
+* JSON to read the outputs
+* cv2, pyplot numpy are all used to create the charts, and draw shapes on the charts
+* Math is used to round the pixel math to an integer.
+* Pretty prints the JSON nicely.
+
 To start a Jupyter Notebook:
 
 1. [install Jupyter](https://jupyter.org/install)

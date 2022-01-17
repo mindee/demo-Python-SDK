@@ -4,16 +4,7 @@ These samples all use Juypter Notebooks.
 
 Python requirements:
 ```
-from mindee import Client
-import json
-import cv2
-from matplotlib import pyplot as plt
-import numpy as np
-import math
-from IPython.lib.pretty import pretty
-```
 
-or:
 ```
 pip install -r requirements.txt
 ```

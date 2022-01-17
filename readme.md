@@ -1,4 +1,4 @@
-# Sample files
+# Tutorials for Mindee Python SDK
 
 These samples all use Juypter Notebooks.
 
@@ -12,6 +12,12 @@ import numpy as np
 import math
 from IPython.lib.pretty import pretty
 ```
+
+or:
+```
+pip install -r requirements.txt
+```
+
 
 * Mindee is used for the OCR data extraction
 * JSON to read the outputs
